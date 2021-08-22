@@ -21,6 +21,7 @@ With this analysis, I wanted to confirm some thoughts I had after I watched the 
 1. In the movie it was shown that women and children were first sent on life boats when the Titanic sunk. I want to confirm whether the data gave the same outcome and that there was a better chance of survival if you were a female or a child.
 2. Similar to the above one, whether there was a better chance of survival if you were from the first class?
 3. What factors contributed most to the survival of passengers on the Titanic?
+4. Given a new passenger on the Titanic, with what certainty can my model predict whether the passenger can survive or not and whether they should board the Titanic in that case?
 
 ## File Descriptions <a name="files"></a>
 * **train.csv** - training dataset for this project

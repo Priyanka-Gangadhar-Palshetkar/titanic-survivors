@@ -36,7 +36,7 @@ With this analysis, I wanted to confirm some thoughts I had after I watched the 
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://www.priyankapalshetkar.com/post/exploring-graphql-as-an-alternative-to-rest-api-part-1).
+The main findings of the code can be found at the post available [here](https://www.priyankapalshetkar.com/post/would-you-have-survived-the-titanic-mishap).
 
 ## Licensing and Acknowledgements<a name="licensing"></a>
 The information for this project can be found here - [Titanic - Machine Learning for Disaster](https://www.kaggle.com/c/titanic)

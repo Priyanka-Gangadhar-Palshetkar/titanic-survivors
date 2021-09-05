@@ -17,6 +17,11 @@ Other python packages used for the analysis are:
 * [seaborn](https://seaborn.pydata.org/)
 
 ## Project Motivation<a name="motivation"></a>
+The sinking of the Titanic is one of the most infamous shipwrecks in history.
+On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew.
+While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
+
+
 With this analysis, I wanted to confirm some thoughts I had after I watched the movie [Titanic](https://en.wikipedia.org/wiki/Titanic_(1997_film)).
 1. In the movie it was shown that women and children were first sent on life boats when the Titanic sunk. I want to confirm whether the data gave the same outcome and that there was a better chance of survival if you were a female or a child.
 2. Similar to the above one, whether there was a better chance of survival if you were from the first class?

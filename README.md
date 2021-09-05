@@ -26,6 +26,7 @@ With this analysis, I wanted to confirm some thoughts I had after I watched the 
 ## File Descriptions <a name="files"></a>
 * **train.csv** - training dataset for this project
 * **test.csv** - test dataset for this project
+* **ground_truth.csv** - actual result for test dataset
 * **titanic-dataset-exploration.ipynb** - Jupyter notebook that consists my analysis for the questions above. I have made sure that the notebook is readable and gives you an insight into my thought process during each step. 
 
 ## Results<a name="results"></a>
